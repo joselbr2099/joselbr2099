@@ -4,8 +4,11 @@
 </p>
 
  Hi mi name is Jose Luis, this is my personal repo for my projects
+
  I love Cybersecurity/programming/Linux but the learning and practice path is not easy
+ 
  But i'm always learning ...
+
  You can contact me via:
 
 * [Linkedin](https://www.linkedin.com/in/joseluisbr2047/)
